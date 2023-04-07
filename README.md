@@ -11,11 +11,6 @@ The program does not need to be recompiled to do different mazes, simply use ./a
 
 Maze Files:
 
-S...
-###.
-###.
-##G.
-
 Dots are places the program can go, hashtags are walls. The program initially starts at S and ends when adjacent to G. 
 
 The program outputs the visited cells. 
